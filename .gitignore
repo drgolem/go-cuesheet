@@ -1,3 +1,20 @@
+# Go workspace
 bin/
 pkg/
 src/*.*/
+
+# Build artifacts
+tools/*/normalize-cue
+tools/*/decode-mojibake
+tools/*/print-tracks
+*.exe
+
+# Test outputs and backups
+*.normalized.cue
+*.bak
+tools/normalize-cue/testdata/validation-test/
+tools/decode-mojibake/test_*.txt
+
+# Tool-specific modules (should only use root go.mod)
+tools/*/go.mod
+tools/*/go.sum

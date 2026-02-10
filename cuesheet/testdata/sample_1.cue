@@ -1,0 +1,17 @@
+REM GENRE Ambient
+REM DATE 2025
+PERFORMER "Artist Name"
+TITLE "Album Title"
+FILE "Full_Mix.wav" WAVE
+  TRACK 01 AUDIO
+    TITLE "First Song"
+    PERFORMER "Artist Name"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Second Song"
+    PERFORMER "Artist Name"
+    INDEX 01 05:30:00
+  TRACK 03 AUDIO
+    TITLE "Third Song"
+    PERFORMER "Artist Name"
+    INDEX 01 10:15:50
