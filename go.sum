@@ -1,2 +1,4 @@
+github.com/drgolem/cyrillic-encoding v0.0.0-20260224012527-be68fed2a4b8 h1:Nt3BrUN6nTV+++MSoircQ3L73YgUxEzP2FV2UOfqvpk=
+github.com/drgolem/cyrillic-encoding v0.0.0-20260224012527-be68fed2a4b8/go.mod h1:xyhMa/6AN2UxJZSMZBGn4zfp7IPIwdlA8kzZRcZsyvo=
 golang.org/x/text v0.33.0 h1:B3njUFyqtHDUI5jMn1YIr5B0IE2U0qck04r6d4KPAxE=
 golang.org/x/text v0.33.0/go.mod h1:LuMebE6+rBincTi9+xWTY8TztLzKHc/9C1uBCG27+q8=
